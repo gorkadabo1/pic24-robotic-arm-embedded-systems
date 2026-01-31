@@ -152,6 +152,9 @@ pic24-robotic-arm/
 ├── i2c_funciones.c / .h   # I2C communication functions
 ├── srf08.c / srf08.h      # Ultrasonic sensor driver
 └── Makefile               # Build configuration
+
+docs/                  # Project documentation
+   └── pic24_robotic_arm_report.pdf
 ```
 
 ## Technical Implementation
